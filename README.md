@@ -3,6 +3,7 @@
 ### 🔷 Integrantes
 
 * Matheus Gois 2015037
+* Tiago Goossen 2427793
 
 
 

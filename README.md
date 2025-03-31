@@ -5,6 +5,18 @@
 * Matheus Gois 2015037
 * Tiago Goossen 2427793
 
+## 🔷 Como Trazer esse repositorio pra maquina local?
+ 
+- Em uma pasta adequada voce deve clonar o repositório
+
+ `git clone https://github.com/mathwgopav/T197_N24CD_Matheus_Gois.git`
+
+- Pronto! Agora é só entrar na pasta, e instalar as dependecias:
+
+  `
+  cd <nome da pasta do repositorio>
+  npm install
+  `
 
 
 ## 🔶 Comandos Úteis do Git 🤟

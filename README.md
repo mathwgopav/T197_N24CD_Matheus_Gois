@@ -2,9 +2,10 @@
 # Aplicação processos jurídicos (lado cliente)
 ### 🔷 Integrantes
 
-* Matheus Gois 2015037
-* Tiago Goossen 2427793
-
+* Matheus Gois                  2015037
+* Tiago Goossen de Andrade      2427793
+* Thiago Holanda Linhares       2410384
+* Paulo de Tarso Neto           2410522
 
 
 ## 🔶 Comandos Úteis do Git 🤟
@@ -39,4 +40,9 @@
 - Criar nova branch e mudar para ela automaticamente
   
   `git checkout -b nome-da-nova-branch`
+
+
+  ## Link do Prototipo no Figma
+
+  [Aqui!](https://www.figma.com/design/qagHMN8Qav5Orqk72xOp5I/Prototipagem---Mobile?node-id=0-1&t=ZkBgl9lFJU6T9STs-1)
   
